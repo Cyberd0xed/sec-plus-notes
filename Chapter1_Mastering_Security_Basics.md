@@ -1,4 +1,4 @@
-#Chapter 1: Mastering Security Basics
+# Chapter 1: Mastering Security Basics
 
 # Understanding Core Security Goals
 
