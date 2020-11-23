@@ -1,2 +1,4 @@
 # sec-plus-notes
-Notes on CompTIA Security+
+# CompTIA Security+
+
+### These are the notes I have compiled from reading the curriculum of the CompTIA Security+ certification.
